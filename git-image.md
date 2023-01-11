@@ -5,19 +5,33 @@ image to that folder.  And finally commit everything to github!
 
 1. make a new folder (e.g. _images_) to this repo.  Hint: `mkdir`
 
+mkdir "_images_"
+
 2. ensure that the folder is there.  Hint: `ls`
+
+ls
 
 3. download an image you like and save it into the image dir you made
    above.
+
+Done.
    
 4. on command line navigate to the image folder.  Hint: `cd`
 
+cd _images_
+
 5. ensure that the image is there.  Hint: `ls`
+
+ls
 
 6. add the image to your git repo.  Hint: `git add image.jpg`
 
+git add nature.jpg
+
 7. commit and push the changes.  Hint: `git commit -am ".. your
    message here.. ".
+   
+git commit -am "nature"
    
 8. go and check on github that the image is there.
 
@@ -26,3 +40,5 @@ image to that folder.  And finally commit everything to github!
    fashion as above.
 
 Did the edits show up on github?
+
+Sure?

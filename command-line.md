@@ -8,9 +8,13 @@ used in this file underneath the particular question.
 
 1. Open your terminal (command prompt), either gitbash on windows or
    terminal on mac.
+<<<<<<< HEAD
    
    I search gitbash in my search tab and pull up the application. 
    
+=======
+   okkkkkkkkkkkkkkkkkkkkkkkkkk!
+>>>>>>> 6856765309d4796e7abf49fe878451cf3ad2e52c
 2. Which directory are you in?  Find it out!  Hint: `pwd`
 
   /c/Users/Shaheer  

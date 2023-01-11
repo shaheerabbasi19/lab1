@@ -46,6 +46,9 @@ I used ~ to return to /c/Users/Shaheer
 
 7. Commit and push your changes.
 
+git commit -am "Working on command line exercise"
+
 8. Check the file on github--do you see your edits there?
 
+No I do not. 
 Congrats!  You are done!
